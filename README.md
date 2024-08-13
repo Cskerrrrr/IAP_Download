@@ -16,5 +16,6 @@
 * 2.second install the update package STM32Bootloader.exe.
 * 3.update the APPS STM32APPs.bin.
 * 4.if you need update the Bootloader please download app first.
+* 5.please do not use printf to send other imassage,this will causing problem.
 
 * if you need passedword please contact us.
