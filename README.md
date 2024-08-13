@@ -12,9 +12,9 @@
 
 * 您在使用或者打开以上文件即代表您认同以上条款，如果您不知道您在干什么请关闭此项目所有文件并删除
 
-1.first open and download the Bootloader(IAPBootloader).
-2.second install the update package STM32Bootloader.exe.
-3.update the APPS STM32APPs.bin.
-4.if you need update the Bootloader please download app first.
+*1.first open and download the Bootloader(IAPBootloader).
+*2.second install the update package STM32Bootloader.exe.
+*3.update the APPS STM32APPs.bin.
+*4.if you need update the Bootloader please download app first.
 
-if you need passedword please contact us.
+*if you need passedword please contact us.
